@@ -24,7 +24,7 @@ Rules:
      	The following check is needed for "Medium" and "Hard" puzzles.
  
  	- for every cell in a row:
- 		- take the lists of potential solutins
+ 		- take the lists of potential solutions
  		- identify values that only occure once (i.e. the value has only 1 suitable position)
  		- replace the list of multiple values with the list with just the single suitable value
     ]
